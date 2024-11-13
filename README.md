@@ -8,7 +8,6 @@ Gene Expression Heatmap: Visualizes differences in gene expression levels, with 
 <img width="300" alt="Screenshot 2024-11-13 at 1 58 07 AM" src="https://github.com/user-attachments/assets/583cb3ab-2b77-400d-baf4-264ea8848257">
 
 Mutation Data Heatmap: Highlights the mutation load across tumors, where clusters align closely with cancer subtypes, particularly showing the hyper-mutated status of some subtypes (e.g., CMS1).
-
 <img width="300" alt="Screenshot 2024-11-13 at 1 58 52 AM" src="https://github.com/user-attachments/assets/43dc24a6-f977-436a-9c33-a7380ed21076">
 
 Copy Number Variation (CNV) Heatmap: Examines amplifications and deletions, providing visual cues on gene copy changes specific to subtypes.
